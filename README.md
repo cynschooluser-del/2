@@ -1,4 +1,4 @@
-root {
+:root {
   --primary: #4f46e5;
   --primary-hover: #4338ca;
   --success: #16a34a;
